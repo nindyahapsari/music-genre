@@ -1,0 +1,17 @@
+Steps photo to illustration in procreate:
+
+from this tutorial : https://www.youtube.com/watch?v=pOFsVoUAbsc
+
+photo import
+photo duplicate in layer
+color balance -> shadows, midtones, highlights
+curves -> Gamma adjustment
+make a new layer with color "cyan" -> choose "soft light" on layer settings
+choose "eraser" -> Airbrushing -> soft airbursh -> make adjustment around the corner of the images
+make a new layer -> move the layer under the color "cyan" layer -> choose layer setting "screen"
+choose brush "airbrush" -> medium airbrush -> start highlighting light for object such as box, roof, table etc -> make the brush size a bit bigger and soft color to give hightlight to the object
+change color into a light purple or light pink to continue highlighting the photo to give the cyberpunk effect
+change the brush into medium hard brush with the color of light purple or light pink
+after done with airbrushing, create a new layer -> change the brush into "Luminance" -> lightpen for those neon color highlight
+create a new layer for highlighting japanese word with the "Luminance -lightpen" -> change the color to cyan
+Group the layer in the end

@@ -1,0 +1,18 @@
+# root path #
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+notes/
+
+# preprocess #
+
+preprocess/genre_dataset
+preprocess/kaggle_data
+preprocess/kaggle_data.zip
+preprocess/data.json
+preprocess/nn_data.json
+preprocess/preparing.py
+
+
+
