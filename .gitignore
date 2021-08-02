@@ -1,18 +1,35 @@
-# root path #
+# general #
 Lib/
 Include/
 Scripts/
 pyvenv.cfg
 notes/
+*.json
 
-# preprocess #
+.env
+__pycache__/
+cnn_test/
+training_dataset/
 
-preprocess/genre_dataset
-preprocess/kaggle_data
+music_classification/nn_data.json
+music_classification/flask_app/17652
+music_classification/flask_app/42836
+music_classification/flask_app/88602
+music_classification/flask_app/89637
+music_classification/flask_app/96061
+music_classification/flask_app/97772
+
+# preprocess folder #
+
+preprocess/genre_dataset/
+preprocess/kaggle_data/
 preprocess/kaggle_data.zip
 preprocess/data.json
 preprocess/nn_data.json
 preprocess/preparing.py
 
+# kmeans folder #
 
+smaller_training_dataset/
+test_dataset/
 
